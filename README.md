@@ -1,4 +1,8 @@
-## Hi there 👋
+# About Me 
+##Education
+# Current student at Loughborough University, studying BSc Management 
+##Aspirations
+#I am an aspiring Data Scientist, trying to expand my skills and knowledge in programming to help with my professional career 
 
 <!--
 **Joebrook-123/Joebrook-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
